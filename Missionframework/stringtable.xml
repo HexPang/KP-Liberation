@@ -2849,6 +2849,7 @@
             <Portuguese>Remover carga do veículo requisitado</Portuguese>
             <Turkish>Varolan araçları temizle</Turkish>
             <Chinese>移除載具上的物品</Chinese>
+            <Chinesesimp>清除已生成载具上的物品</Chinesesimp>
             <Korean>장비 배치(생산)시 화물칸 비우기.</Korean>
             <Czech>Vymazat náklad vyvolaného vozidla</Czech>
         </Key>
@@ -4257,7 +4258,7 @@
             <Spanish>%1 Cajas</Spanish>
             <Russian>%1 Ящиков</Russian>
             <Italian>%1 Casse</Italian>
-            <Chinesesimp>%1箱</Chinesesimp>
+            <Chinesesimp>%1 箱</Chinesesimp>
             <Chinese>%1 箱</Chinese>
             <Turkish>%1 Kutular</Turkish>
             <Portuguese>%1 caixas</Portuguese>
@@ -6114,6 +6115,8 @@
             <German>Widerstandskämpfer sind unterwegs.</German>
             <Spanish>Fuerzas de guerrilla en camino.</Spanish>
             <Russian>Партизанские силы в пути.</Russian>
+            <Chinese>游擊隊已在路上.</Chinese>
+            <Chinesesimp>游击队已在路上.</Chinesesimp>
             <Italian>Guerriglieri in arrivo.</Italian>
             <Korean>도로에 적군 민병대 세력 발견!</Korean>
             <Czech>Partyzánské síly na cestě.</Czech>
@@ -6123,6 +6126,8 @@
             <German>Widerstandskämpfer nähern sich %1 aus %2.</German>
             <Spanish>Fuerzas de guerrilla se aproximan a %1 desde el %2</Spanish>
             <Russian>Партизанские силы идут из %2 в %1.</Russian>
+            <Chinesesimp>游击队将从 %2 抵达 %1.</Chinesesimp>
+            <Chinese>游擊隊將從 %2 抵達 %1.</Chinese>
             <Italian>Guerriglieri in arrivo su %1 da %2.</Italian>
             <Korean>적군 민병대가 %2 에서 %1 로 이동중입니다.</Korean>
             <Czech>Partyzáni přicházejí do %1 z %2.</Czech>
