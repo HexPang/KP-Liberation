@@ -46,7 +46,7 @@
 <Project name="Liberation">
     <Package name="Liberation">
         <Key ID="STR_MISSION_TITLE">
-            <Original>CTI 34 KP Liberation v0.96.7a</Original>
+            <Original>CTI 34 KP Liberation Altis v0.96.7a</Original>
         </Key>
         <Key ID="STR_MISSION_VERSION">
             <Original>v0.96.7a</Original>
@@ -6746,6 +6746,8 @@
             <Original>-- Clear FOB area</Original>
             <Spanish>-- Limpiar área de FOB</Spanish>
             <Russian>-- Очистить зону FOB</Russian>
+            <Chinesesimp>清除FOB区域</Chinesesimp>
+            <Chinese>清除FOB區域</Chinese>
             <German>-- FOB Gebiet räumen</German>
             <Korean>-- 전초기지 주변 정리</Korean>
             <Czech>-- Vymazat zónu FOB</Czech>
@@ -6755,6 +6757,8 @@
             <German>FOB eingepackt.\nEventuelle Gebietsräumung wird zum Serverneustart rückgängig gemacht.</German>
             <Spanish>FOB empacado. \nProbablemente el permiso de creación será revertido después de reiniciar el servidor.</Spanish>
             <Russian>FOB свернуто.\nЕсли вы очищали место для FOB, оно будет восстановлено после перезапуска сервера.</Russian>
+            <Chinesesimp>FOB 已重新打包。\n可能会在服务器重启时被清除。</Chinesesimp>
+            <Chinese>FOB 已重新打包。\n可能會在服務器重啓時被清除。</Chinese>
             <Korean>FOB가 재포장됩니다. 이 상태로 서버 재시작시 이 부근의 건물이나 장비들은 사라집니다.</Korean>
             <Czech>FOB je zabalen.\Po restartování serveru bude pravděpodobně vytvořené oprávnění zrušeno.</Czech>
         </Key>
@@ -6763,6 +6767,8 @@
             <German>Dynamischer Nebel (A3 Vanilla)</German>
             <Spanish>Niebla dinámica (A3 Default)</Spanish>
             <Russian>Динамический туман (A3 Vanilla)</Russian>
+            <Chinesesimp>动态雾 (A3 Vanilla)</Chinesesimp>
+            <Chinese>動態霧 (A3 Vanilla)</Chinese>
             <Korean>동적인 안개 (A3 Vanilla)</Korean>
             <Czech>Dynamická mlha (A3 Vanilla)</Czech>
         </Key>
@@ -7027,6 +7033,7 @@
         <Key ID="STR_KPPLM_ACTIONOPEN">
             <English>-- KP Player Menu --</English>
             <Chinese>-- KP 玩家選單 --</Chinese>
+            <Chinesesimp>-- KP 玩家菜单 --</Chinesesimp>
             <Spanish>-- Menú de Jugador KP --</Spanish>
             <German>-- KP Spielermenü --</German>
             <Portuguese>-- KP Menu do Jogador --</Portuguese>
@@ -7035,6 +7042,7 @@
         <Key ID="STR_KPPLM_TITLE">
             <English>KP Player Menu</English>
             <Chinese>KP 玩家選單</Chinese>
+            <Chinesesimp>-- KP 玩家菜单 --</Chinesesimp>
             <Spanish>Menú de Jugador KP</Spanish>
             <German>KP Spielermenü</German>
             <Portuguese>KP Menu do Jogador</Portuguese>
@@ -7043,6 +7051,7 @@
         <Key ID="STR_KPPLM_LABELPLAYER">
             <English>Player Information</English>
             <Chinese>玩家資訊</Chinese>
+            <Chinesesimp>玩家信息</Chinesesimp>
             <Spanish>Información de Jugador</Spanish>
             <German>Spielerinformationen</German>
             <Portuguese>Informação do Jogador</Portuguese>
@@ -7050,7 +7059,8 @@
         </Key>
         <Key ID="STR_KPPLM_RANK">
             <English>Rank:</English>
-            <Chinese>階級</Chinese>
+            <Chinese>階級:</Chinese>
+            <Chinesesimp>军衔:</Chinesesimp>
             <Spanish>Rango:</Spanish>
             <German>Dienstgrad:</German>
             <Portuguese>Rank:</Portuguese>
@@ -7059,6 +7069,7 @@
         <Key ID="STR_KPPLM_SCORE">
             <English>Score:</English>
             <Chinese>得分</Chinese>
+            <Chinesesimp>得分</Chinesesimp>
             <Spanish>Puntaje:</Spanish>
             <German>Punkte:</German>
             <Portuguese>Pontuação:</Portuguese>
@@ -7067,6 +7078,7 @@
         <Key ID="STR_KPPLM_PLAYTIME">
             <English>Playtime:</English>
             <Chinese>遊戲時間</Chinese>
+            <Chinesesimp>游戏事件</Chinesesimp>
             <Spanish>Tiempo de juego:</Spanish>
             <German>Spielzeit:</German>
             <Portuguese>Tempo de jogo:</Portuguese>
@@ -7075,6 +7087,7 @@
         <Key ID="STR_KPPLM_NORANKS">
             <English>KP Ranks mod not loaded</English>
             <Chinese>KP Ranks 模組未裝載</Chinese>
+            <Chinesesimp>KP Ranks 模组未加载</Chinesesimp>
             <Spanish>KP Ranks mod no ha sido cargado</Spanish>
             <German>KP Ranks Mod nicht geladen</German>
             <Portuguese>O mod KP Ranks não está carregado</Portuguese>
@@ -7083,6 +7096,7 @@
         <Key ID="STR_KPPLM_LABELGROUPS">
             <English>Group Management</English>
             <Chinese>團隊管理</Chinese>
+            <Chinesesimp>团队管理</Chinesesimp>
             <Spanish>Administración de grupo</Spanish>
             <German>Gruppenverwaltung</German>
             <Portuguese>Gerenciar Grupo</Portuguese>
@@ -7091,6 +7105,8 @@
         <Key ID="STR_KPPLM_CREATE">
             <English>Create</English>
             <German>Erstellen</German>
+            <Chinesesimp>创建</Chinesesimp>
+            <Chinese>創建</Chinese>
             <Spanish>Crear</Spanish>
             <Portuguese>Criar</Portuguese>
             <Czech>Vytvořit</Czech>
@@ -7098,6 +7114,7 @@
         <Key ID="STR_KPPLM_JOIN">
             <English>Join</English>
             <Chinese>加入</Chinese>
+            <Chinesesimp>加入</Chinesesimp>
             <Spanish>Unirse</Spanish>
             <German>Beitreten</German>
             <Portuguese>Juntar-se</Portuguese>
@@ -7106,6 +7123,7 @@
         <Key ID="STR_KPPLM_RENAME">
             <English>Rename</English>
             <Chinese>重新命名</Chinese>
+            <Chinesesimp>重命名</Chinesesimp>
             <Spanish>Renombrar</Spanish>
             <German>Umbenennen</German>
             <Portuguese>Renomear</Portuguese>
@@ -7114,6 +7132,7 @@
         <Key ID="STR_KPPLM_LABELVIEW">
             <English>View Distance Settings</English>
             <Chinese>視距設定</Chinese>
+            <Chinesesimp>视距设定</Chinesesimp>
             <Spanish>Configuración de distancia de visión</Spanish>
             <German>Sichtweiteneinstellungen</German>
             <Portuguese>Distância de Visão</Portuguese>
@@ -7122,6 +7141,7 @@
         <Key ID="STR_KPPLM_VIEWFOOT">
             <English>m on foot</English>
             <Chinese>m 步兵視野</Chinese>
+            <Chinesesimp>m 步兵视野</Chinesesimp>
             <Spanish>m a pie</Spanish>
             <German>m zu Fuß</German>
             <Portuguese>m A pé</Portuguese>
@@ -7130,6 +7150,7 @@
         <Key ID="STR_KPPLM_VIEWVEHICLE">
             <English>m in ground vehicles</English>
             <Chinese>m 地面載具視野</Chinese>
+            <Chinesesimp>m 地面载具视野</Chinesesimp>
             <Spanish>m en vehículos de tierra</Spanish>
             <German>m in Bodenfahrzeugen</German>
             <Portuguese>m em veículos terrestres</Portuguese>
@@ -7138,6 +7159,7 @@
         <Key ID="STR_KPPLM_VIEWAIR">
             <English>m in air vehicles</English>
             <Chinese>m 空中載具視野</Chinese>
+            <Chinesesimp>m 空中载具视野</Chinesesimp>
             <Spanish>m en vehículos de aire</Spanish>
             <German>m in Luftfahrzeugen</German>
             <Portuguese>m em veículos aéreos</Portuguese>
@@ -7146,6 +7168,7 @@
         <Key ID="STR_KPPLM_LABELMISC">
             <English>Misc Settings</English>
             <Chinese>細項設定</Chinese>
+            <Chinesesimp>细项设置</Chinesesimp>
             <Spanish>Configuración miscelanea</Spanish>
             <German>Sonstige Einstellungen</German>
             <Portuguese>Outras Configurações</Portuguese>
@@ -7154,6 +7177,7 @@
         <Key ID="STR_KPPLM_TEXTTERRAIN">
             <English>Terrain detail:</English>
             <Chinese>地形細節</Chinese>
+            <Chinesesimp>地形细节:</Chinesesimp>
             <Spanish>Detalle de terreno:</Spanish>
             <German>Terraindetail:</German>
             <Portuguese>Detalhe do terreno:</Portuguese>
@@ -7162,6 +7186,7 @@
         <Key ID="STR_KPPLM_TERRAINLOW">
             <English>Low</English>
             <Chinese>低</Chinese>
+            <Chinesesimp>低</Chinesesimp>
             <Spanish>Bajo</Spanish>
             <German>Niedrig</German>
             <Portuguese>Baixo</Portuguese>
@@ -7170,6 +7195,7 @@
         <Key ID="STR_KPPLM_TERRAINSTANDARD">
             <English>Standard</English>
             <Chinese>標準</Chinese>
+            <Chinesesimp>标准</Chinesesimp>
             <Spanish>Estandard</Spanish>
             <German>Standard</German>
             <Portuguese>Padrão</Portuguese>
@@ -7178,6 +7204,7 @@
         <Key ID="STR_KPPLM_TERRAINHIGH">
             <English>High</English>
             <Chinese>高</Chinese>
+            <Chinesesimp>高</Chinesesimp>
             <Spanish>Alto</Spanish>
             <German>Hoch</German>
             <Portuguese>Alto</Portuguese>
@@ -7186,6 +7213,7 @@
         <Key ID="STR_KPPLM_TERRAINVHIGH">
             <English>Very High</English>
             <Chinese>非常高</Chinese>
+            <Chinesesimp>非常高</Chinesesimp>
             <Spanish>Muy alto</Spanish>
             <German>Sehr Hoch</German>
             <Portuguese>Muito Alto</Portuguese>
@@ -7194,6 +7222,7 @@
         <Key ID="STR_KPPLM_TERRAINULTRA">
             <English>Ultra</English>
             <Chinese>極高</Chinese>
+            <Chinesesimp>极高</Chinesesimp>
             <Spanish>Ultra</Spanish>
             <German>Ultra</German>
             <Portuguese>Ultra</Portuguese>
@@ -7202,6 +7231,7 @@
         <Key ID="STR_KPPLM_TEXTTPV">
             <English>Auto 3rd person view:</English>
             <Chinese>自動第三人稱視角</Chinese>
+            <Chinesesimp>自动第三人称视角:</Chinesesimp>
             <Spanish>Cámara auto 3era persona:</Spanish>
             <German>Auto 3rd-Person-Sicht:</German>
             <Portuguese>Câmera auto em 3º pessoa:</Portuguese>
@@ -7210,6 +7240,7 @@
         <Key ID="STR_KPPLM_TPDISABLED">
             <English>Disabled</English>
             <Chinese>關閉</Chinese>
+            <Chinesesimp>关闭</Chinesesimp>
             <Spanish>Desabilitar</Spanish>
             <German>Deaktiviert</German>
             <Portuguese>Desativado</Portuguese>
@@ -7218,6 +7249,7 @@
         <Key ID="STR_KPPLM_TPVAIR">
             <English>Air vehicles</English>
             <Chinese>空中載具</Chinese>
+            <Chinesesimp>空中载具</Chinesesimp>
             <Spanish>Vehículos de aire</Spanish>
             <German>Luftfahrzeuge</German>
             <Portuguese>Veículos aéreos</Portuguese>
@@ -7226,6 +7258,7 @@
         <Key ID="STR_KPPLM_TPVLAND">
             <English>Ground vehicles</English>
             <Chinese>地面載具</Chinese>
+            <Chinesesimp>地面载具</Chinesesimp>
             <Spanish>Vehículos de tierra</Spanish>
             <German>Bodenfahrzeuge</German>
             <Portuguese>Veículos terrestres</Portuguese>
@@ -7234,6 +7267,7 @@
         <Key ID="STR_KPPLM_TPVALL">
             <English>All vehicles</English>
             <Chinese>所有載具</Chinese>
+            <Chinesesimp>所有载具</Chinesesimp>
             <Spanish>Todos los vehículos</Spanish>
             <German>Alle Fahrzeuge</German>
             <Portuguese>Todos os veículos</Portuguese>
@@ -7242,6 +7276,7 @@
         <Key ID="STR_KPPLM_TEXTRADIO">
             <English>Disable radio chatter:</English>
             <Chinese>關閉文字聊天：</Chinese>
+            <Chinesesimp>关闭电台文字：</Chinesesimp>
             <Spanish>Deshabilitar conversaciones de radio:</Spanish>
             <German>KI Funk deaktivieren:</German>
             <Portuguese>Desativar comm's de rádio:</Portuguese>
@@ -7250,6 +7285,7 @@
         <Key ID="STR_KPPLM_RADIONO">
             <English>No</English>
             <Chinese>否</Chinese>
+            <Chinesesimp>否</Chinesesimp>
             <Spanish>No</Spanish>
             <German>Nein</German>
             <Portuguese>Não</Portuguese>
@@ -7258,6 +7294,7 @@
         <Key ID="STR_KPPLM_RADIOVOICE">
             <English>Voice</English>
             <Chinese>只有語音通訊</Chinese>
+            <Chinesesimp>只有语音通讯</Chinesesimp>
             <Spanish>Voz</Spanish>
             <German>Stimme</German>
             <Portuguese>Voz</Portuguese>
@@ -7266,6 +7303,7 @@
         <Key ID="STR_KPPLM_RADIOALL">
             <English>Voice + Chat</English>
             <Chinese>語音+文字通訊</Chinese>
+            <Chinesesimp>语音+文字通讯</Chinesesimp>
             <Spanish>Voz + Chat</Spanish>
             <German>Stimme + Chat</German>
             <Portuguese>Voz + Chat</Portuguese>
@@ -7274,6 +7312,7 @@
         <Key ID="STR_KPPLM_TEXTSOUND">
             <English>In vehicle volume:</English>
             <Chinese>載具內音量：</Chinese>
+            <Chinesesimp>载具内音量：</Chinesesimp>
             <Spanish>Volumen en vehículo:</Spanish>
             <German>Lautstärke im Fahrzeug:</German>
             <Portuguese>Volume dentro do veículo:</Portuguese>
@@ -7282,6 +7321,7 @@
         <Key ID="STR_KPPLM_APPLY">
             <English>Apply</English>
             <Chinese>使用</Chinese>
+            <Chinesesimp>使用</Chinesesimp>
             <Spanish>Aplicar</Spanish>
             <German>Anwenden</German>
             <Portuguese>Aplicar</Portuguese>
@@ -7290,6 +7330,7 @@
         <Key ID="STR_KPPLM_TTSOUND">
             <English>The sound adjustment is overwritten by ACE, if you should use it.</English>
             <Chinese>如果你有使用ACE模組，聲音設定將會被ACE的覆蓋</Chinese>
+            <Chinesesimp>如果你有使用ACE模组，声音设定将会被ACE的覆盖</Chinesesimp>
             <Spanish>Los ajustes de sonido han sido sobreescritos por ACE, si debieras usarlos.</Spanish>
             <German>Die Lautstärkeanpassung wird durch ACE überschrieben, wenn du es nutzen solltest.</German>
             <Portuguese>O ajuste de som é sobrescrito pelo ACE se você usar ele.</Portuguese>
@@ -7298,6 +7339,7 @@
         <Key ID="STR_KPPLM_NOTLEADER">
             <English>You're not the leader of this group.</English>
             <Chinese>你不是這個團隊的隊長</Chinese>
+            <Chinesesimp>你不是这个团队的队长</Chinesesimp>
             <Spanish>No eres el líder en el grupo.</Spanish>
             <German>Du bist nicht der Anführer dieser Gruppe.</German>
             <Portuguese>Você não é o lider desse grupo.</Portuguese>
@@ -7306,6 +7348,7 @@
         <Key ID="STR_KPPLM_NOLVLSYSTEM">
             <English>Leveling system disabled</English>
             <Chinese>陞階系統關閉</Chinese>
+            <Chinesesimp>晋级系统关闭</Chinesesimp>
             <Spanish>Sistema de niveles desactivado</Spanish>
             <German>Levelsystem deaktiviert</German>
             <Portuguese>Sistema de níveis desativado</Portuguese>
